@@ -14,15 +14,15 @@ username:password:last:first:group1,group2
 
 The fields represent the following:
 
-Username: The account name to create
+**Username:** The account name to create
 
-Password: The password to assign
+**Password:** The password to assign
 
-Last: The user’s last name (used in the GECOS field)
+**Last:** The user’s last name (used in the GECOS field)
 
-First: The user’s first name (used in the GECOS field)
+**First:** The user’s first name (used in the GECOS field)
 
-Groups: A comma separated list of groups to assign. However, use “-” you don't want a user in a group
+**Groups:** A comma separated list of groups to assign. However, use “-” you don't want a user in a group
 
 To skip a line, start it with a “#”. Any line that begins with “#” is ignored by the script.
 
